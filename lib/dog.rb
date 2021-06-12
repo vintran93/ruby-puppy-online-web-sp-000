@@ -1,1 +1,7 @@
-# Add your code here
+def Dog
+  
+@@all = []
+
+
+
+end
