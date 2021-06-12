@@ -20,6 +20,7 @@ class Dog
     @@all << self
   end
   
-  
+  def name
+    
 
 end
